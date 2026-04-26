@@ -16,7 +16,4 @@ Hi, I'm Reema Aljaber. I am currently a student majoring in Computer Science. Iâ
 ### ğŸ” Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Reema213&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Reema213&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
